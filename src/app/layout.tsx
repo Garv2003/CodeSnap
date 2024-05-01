@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Code to Image",
-  description: "Convert your code to an image",
+  title: "CodeSnap",
+  description: " Capture your code's essence in an image.",
 };
 
 export default function RootLayout({
